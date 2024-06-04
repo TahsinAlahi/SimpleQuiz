@@ -1,0 +1,8 @@
+This is my first time using api, so the Javascript might look a bit messy. The HTML and CSS looks good to me.
+In future need to add something more. My future plans are:
+-> Adding a loading page.
+-> Adding a landing page with some information .
+-> Might add high-score next time.
+-> In landing page user can decide how many question they want, difficulty and topic.
+-> There will page when the game ends and it will show the score high-score.
+-> Ending page will also show the wrong answers with questions.
